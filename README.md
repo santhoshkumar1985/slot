@@ -185,7 +185,7 @@ html
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (30).png>)
+![alt text](<Screenshot 2026-11-18 225423.png>)
 
 ![alt text](<Screenshot 2026-11-18 223038.png>)
 
