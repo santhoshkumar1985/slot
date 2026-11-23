@@ -28,7 +28,7 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
-html>
+<html>
     <head>
         <title>timetable</title>
     </head>
